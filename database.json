@@ -1,0 +1,66 @@
+{
+  "shoppingCart": [
+    {
+      "name": "Hoodie",
+      "price": "570kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Chinros",
+      "price": "700kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Jeans",
+      "price": "540kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Stoneboiland",
+      "price": "12000kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Skjorta",
+      "price": "400kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Shirt",
+      "price": "150kr",
+      "img": "https://placeimg.com/640/480/any"
+    }
+  ],
+  "products": [
+    {
+      "name": "Shirt",
+      "price": "150kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Hoodie",
+      "price": "570kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Chinros",
+      "price": "700kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Jeans",
+      "price": "540kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Stoneboiland",
+      "price": "12000kr",
+      "img": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "Skjorta",
+      "price": "400kr",
+      "img": "https://placeimg.com/640/480/any"
+    }
+  ]
+}
